@@ -1,1 +1,3 @@
-# amistad
+# Conjunto Amistad
+
+Conjunto foklórico
